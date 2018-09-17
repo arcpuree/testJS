@@ -1,0 +1,18 @@
+{
+  "name": "getjsonbyurl",
+  "version": "1.0.0",
+  "description": "test get url data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "darc",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.4.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "test"
+  ]
+}
