@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "deploy": "gcloud app deploy",
-    "start": "node app.js",
+    "start": "node index.js",
     "lint": "repo-tools lint",
     "pretest": "npm run lint",
     "system-test": "repo-tools test app",
